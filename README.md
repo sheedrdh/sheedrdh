@@ -1,7 +1,7 @@
-## Hi there 👋
+## bonjour je m appel 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Je travaille actuellement sur mon proflow web<br> <br>🤝 J'ai besoin d'aide pour<br>🌱 J'apprends actuellement des fonction adobe illustrateur <br>💬 Posez-moi des questions sur<br>⚡ Anecdote amusante
 
 
 ## 🌐 Socials:
