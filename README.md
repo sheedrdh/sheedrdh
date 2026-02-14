@@ -3,7 +3,7 @@
 ## bonjour je m appel sheedan Hyman 👋
 
 # 💫 About Me:
-📔Etudiant a digital campus 1er année<br>🔭 Je travaille actuellement sur mon portfolio web<br>🌱 J'apprends actuellement des fonction adobe illustrateur <br>
+📔Étudiant en premier année Bachelor Développement Web - Sheedan Hyman<br>🔭 Je travaille actuellement sur mon portfolio web<br>🌱 J'apprends actuellement des fonction adobe illustrateur <br>
 
 
 
