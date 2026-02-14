@@ -1,6 +1,6 @@
 
 
-## bonjour je m appel sheedan Hyman 👋
+## Étudiant en Bachelor Développement Web - Sheedan Hyman 👋
 
 # 💫 About Me:
 📔Étudiant en premier année Bachelor Développement Web - Sheedan Hyman<br>🔭 Je travaille actuellement sur mon portfolio web<br>🌱 J'apprends actuellement des fonction adobe illustrateur <br>
